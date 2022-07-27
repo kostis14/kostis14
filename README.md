@@ -18,7 +18,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - :computer: I am a competitive programmer at `CodingGame`
 - :school: I am getting my `Bachelors Degree` at the Department of Information and Electronic Engineering at International Hellenic University
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/189RCdL69ZCrWUdOIf94QitNQOyeYwZDo/edit?usp=sharing&ouid=117660326075737941605&rtpof=true&sd=true).
 
 ---
 
